@@ -1,0 +1,2 @@
+# favorite-quotes
+Ionic app
